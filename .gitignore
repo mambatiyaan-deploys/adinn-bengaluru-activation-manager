@@ -5,3 +5,5 @@ dist
 backend/.env
 frontend/.env
 *.log
+
+supabase/.temp/
