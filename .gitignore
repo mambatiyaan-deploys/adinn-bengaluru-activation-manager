@@ -11,3 +11,6 @@ supabase/.temp/
 supabase/.temp/
 
 supabase/.temp/
+
+supabase/.temp/
+backend/data/*.xlsx
